@@ -1,0 +1,60 @@
+html, body{
+    font-family: 'Athelas', serif;
+    background-color: grey;
+}
+
+p {
+    line-height: 1.5;
+}
+header#top {
+    height: 125px;
+    text-align: center;
+    padding: 5px;
+
+}
+
+#header-text {
+    color: orange;
+  }
+
+
+}
+
+img {
+    height: 100%;
+}
+
+section#big-picture{
+    height:50vh;
+    background: blue url('banner1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div#main{
+    width: 50%;
+    margin:100px auto;
+}
+
+#work-examples figure{
+    display: inline-block;
+    width:30%;
+    background: red;
+    height:150px;
+    margin:0;
+}
+
+#work-examples figure img{
+    width:100%;
+    height:100%;
+}
+
+footer {
+    padding: 20px 0;
+}
+
+
+#footer-text {
+    color:orange;
+}
